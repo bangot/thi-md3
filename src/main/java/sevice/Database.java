@@ -27,7 +27,7 @@ public class Database {
 			System.out.println("Error connection " + ex);
 		}
 
-		// create connection
+
 		return conn;
 	}
 	public static void main(String[] args)

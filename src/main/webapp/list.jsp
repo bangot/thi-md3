@@ -46,7 +46,7 @@
             <td>Total</td>
             <td>Color</td>
             <td>Description</td>
-            <td>Category</td>
+            <td>Category_id</td>
             <td>ACTION</td>
         </tr>
         </thead>
